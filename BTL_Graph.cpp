@@ -1,5 +1,3 @@
-//https://gist.github.com/pluralism/11291780
-//https://gist.github.com/macroxela/11234996
 #include<bits/stdc++.h>
 #define INF 10000
 using namespace std;
@@ -297,5 +295,4 @@ int main(){
 	cin>>s>>t;
 	cout<<"->Qua trinh thuc hien thuat toan dijkstra :\n";
 	g.dijkstra(s,t);
-//	g.InserVertex();
 }
